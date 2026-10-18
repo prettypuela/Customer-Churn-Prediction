@@ -284,3 +284,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 Data Science and Machine Learning Student
 
 Interested in applying data science and machine learning to solve real-world problems.
+
+## My Second Project
+
+### Nigeria Food Price Prediction and Inflation Analysis
+
+This project analyzes historical rice prices in Nigeria, examines rice inflation trends, and uses a simple linear trend model to forecast prices over 12 future periods.
+
+[Read the full Nigeria Food Price project description](README_Nigeria_Food_Price.md)
